@@ -1,3 +1,4 @@
 This is the initial contents
+UserA added other text
 of the second file that comprises
 our most excellent project.
